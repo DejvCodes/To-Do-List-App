@@ -13,4 +13,4 @@
 <a href="https://to-do-list-app-dejvcodes.netlify.app/">To-Do List App</a>
 
 ## License🔐
-[MIT License](LICENSE)
+[MIT License](LICENSE) 
