@@ -110,3 +110,56 @@ ul li span {
 ul li span:hover {
     background: #EDEEF0;
 }
+
+/* ---------- Responsive ---------- */
+@media only screen and (max-width: 550px) {
+    .container {
+        padding: 15px;
+    }
+    .to-do-list {
+        padding: 40px 20px;
+        border-radius: 15px;
+        margin: 30% auto 20px;
+    }
+    .to-do-list h2 {
+        margin-bottom: 15px;
+        background: linear-gradient(130deg, rgba(26, 102, 253, 0.7), rgba(158, 26, 190, 0.9));
+        padding: 5px;
+        font-size: 20px;
+    }
+    .to-do-list h2 img {
+        width: 35px;
+        margin-left: 7px;
+    }
+    .list-input {
+        height: 40px;
+    }
+    input {
+        font-size: 13px;
+    }
+    button {
+        padding: 11.5px 35px;
+        background: linear-gradient(130deg, rgba(26, 102, 253, 0.7), rgba(158, 26, 190, 0.9));
+        font-size: 14px;
+    }
+    button:hover {
+        transform: none;
+    }
+    ul li {
+        font-size: 14px;
+        padding: 12px 8px 10px 38px;
+    }
+    ul li::before {
+        width: 22px;
+        height: 22px;
+        top: 11px;
+    }
+    ul li span {
+        width: 30px;
+        height: 30px;
+        top: 2px;
+    }
+    ul li span:hover {
+        background: none;
+    }
+}
