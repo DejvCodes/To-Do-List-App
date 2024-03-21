@@ -2,6 +2,7 @@
 • HTML, CSS and JavaScript 📂 <br>
 • Save your tasks in a To-Do List!✅ <br>
 • Data is stored in local storage 💾 <br> 
+• Responsive Design ✅
 
 ## Screenshots 📱
 <img src="img/1 To-do List App.jpg" width="350"> <img src="img/2 To-do List App.jpg" width="350">
